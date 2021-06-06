@@ -1,1 +1,2 @@
-# CRG
+# synchronousBallMovement
+Ball moving synchronously
